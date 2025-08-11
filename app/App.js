@@ -1,3 +1,4 @@
+import Image from "next/image";
 export default function App() {
   return (
     <div>
@@ -452,7 +453,7 @@ export default function App() {
                             >
                               <div>
                                 <div>
-                                  <img
+                                  <Image
                                     style={{}}
                                     src="/images/0b01f78f-668f-4c6d-9b74-048126b8d5ce.png"
                                     alt=""
@@ -626,7 +627,7 @@ export default function App() {
                             >
                               <div>
                                 <div>
-                                  <img
+                                  <Image
                                     style={{}}
                                     src="/images/ad6717b3-3df4-422c-9cb2-9a34013b7030.png"
                                     alt=""
@@ -663,7 +664,7 @@ export default function App() {
                             >
                               <div>
                                 <div>
-                                  <img
+                                  <Image
                                     style={{}}
                                     src="/images/684451d6374ef27ae4edfcf0.png"
                                     alt=""
@@ -756,7 +757,7 @@ export default function App() {
                             >
                               <div>
                                 <div>
-                                  <img
+                                  <Image
                                     style={{}}
                                     src="/images/9b460179-485f-47db-bc8f-6befa4d72373.png"
                                     alt=""
@@ -856,7 +857,7 @@ export default function App() {
                             >
                               <div>
                                 <div>
-                                  <img
+                                  <Image
                                     style={{}}
                                     src="/images/684451d6374ef27ae4edfcf0.png"
                                     alt=""
@@ -949,7 +950,7 @@ export default function App() {
                             >
                               <div>
                                 <div>
-                                  <img
+                                  <Image
                                     style={{}}
                                     src="/images/684451d6374ef27ae4edfcf0.png"
                                     alt=""
@@ -1101,7 +1102,7 @@ export default function App() {
                             >
                               <div>
                                 <div>
-                                  <img
+                                  <Image
                                     style={{}}
                                     src="/images/7741d5ae-5d56-4d85-82e7-477b5732369c.png"
                                     alt=""
@@ -1205,7 +1206,7 @@ export default function App() {
                             >
                               <div>
                                 <div>
-                                  <img
+                                  <Image
                                     style={{}}
                                     src="/images/6844579af2331f6d5261e9d0.png"
                                     alt=""
@@ -1309,7 +1310,7 @@ export default function App() {
                             >
                               <div>
                                 <div>
-                                  <img
+                                  <Image
                                     style={{}}
                                     src="/images/6844579af2331f6d5261e9d0.png"
                                     alt=""
@@ -1785,7 +1786,7 @@ export default function App() {
                             >
                               <div>
                                 <div>
-                                  <img
+                                  <Image
                                     style={{}}
                                     src="/images/ad6717b3-3df4-422c-9cb2-9a34013b7030.png"
                                     alt=""
@@ -1949,7 +1950,7 @@ export default function App() {
                             >
                               <div>
                                 <div>
-                                  <img
+                                  <Image
                                     style={{}}
                                     src="/images/6c6f1096-3de0-4c1b-9721-eb0e89aff3fc.png"
                                     alt=""
@@ -1986,7 +1987,7 @@ export default function App() {
                             >
                               <div>
                                 <div>
-                                  <img
+                                  <Image
                                     style={{}}
                                     src="/images/772f71cd-3880-408b-b7e7-ffc1b361903d.png"
                                     alt=""
@@ -2031,7 +2032,7 @@ export default function App() {
                             >
                               <div style={{display: "flex", justifyContent: "center"}}>
                                 <div>
-                                  <img
+                                  <Image
                                     style={{}}
                                     src="/images/94390697-e03f-41dd-ad93-92e8d214a834.png"
                                     alt=""
@@ -2054,7 +2055,7 @@ export default function App() {
                             >
                               <div>
                                 <div>
-                                  <img
+                                  <Image
                                     style={{}}
                                     src="/images/94390697-e03f-41dd-ad93-92e8d214a834.png"
                                     alt=""
@@ -2308,7 +2309,7 @@ export default function App() {
                             >
                               <div>
                                 <div>
-                                  <img
+                                  <Image
                                     style={{}}
                                     src="/images/ad6717b3-3df4-422c-9cb2-9a34013b7030.png"
                                     alt=""
@@ -2472,7 +2473,7 @@ export default function App() {
                             >
                               <div>
                                 <div>
-                                  <img
+                                  <Image
                                     style={{}}
                                     src="/images/6c6f1096-3de0-4c1b-9721-eb0e89aff3fc.png"
                                     alt=""
@@ -2509,7 +2510,7 @@ export default function App() {
                             >
                               <div>
                                 <div>
-                                  <img
+                                  <Image
                                     style={{}}
                                     src="/images/772f71cd-3880-408b-b7e7-ffc1b361903d.png"
                                     alt=""
